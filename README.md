@@ -1,4 +1,4 @@
-# pianoly
+# Pianoly
 
 A new Flutter application.
 
